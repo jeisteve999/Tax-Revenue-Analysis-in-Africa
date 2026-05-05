@@ -9,7 +9,7 @@ The dashboard focuses on understanding how governments in Africa generate revenu
 
 # Dashboard 1 – Tax Structure Evolution
 
-![Dashboard ]()
+![Dashboard ](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
 
 ## Objectives
 
