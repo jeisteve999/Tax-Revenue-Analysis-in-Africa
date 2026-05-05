@@ -7,7 +7,7 @@ This project presents an exploratory analysis of tax revenue trends across Afric
 
 The dashboard focuses on understanding how governments in Africa generate revenue relative to the size of their economies (% of GDP), and how this compares to OECD benchmarks.
 
-# Dashboard 1 – Tax Structure Evolution
+# Dashboard Tax Revenue Analysis  
 
 ![Dashboard ](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
 
